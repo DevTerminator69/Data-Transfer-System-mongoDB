@@ -6,4 +6,4 @@ sourceUrl = add mongodb link from where you want to copy data
 
 destUrl = add mongodb link where you want to copy data
 ```
-#All Rights Are Reserved By Terminator Do not Use without credits 
+# All Rights Are Reserved By Terminator Do not Use without credits 
