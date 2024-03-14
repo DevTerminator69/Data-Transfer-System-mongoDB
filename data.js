@@ -1,7 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 
-const sourceUrl = '';
-const destUrl = '';
+const sourceUrl = 'TRANSFER FROM';
+const destUrl = 'TRANSFER TOO';
 
 async function transferData() {
     try {
