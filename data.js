@@ -12,7 +12,7 @@ async function transferData() {
         const sourceDB = sourceClient.db();
         const destDB = destClient.db();
 
-        const collectionName = 'nightmodes';
+        const collectionName = 'YOUR DB COLLECTION NAME';
         const sourceCollection = sourceDB.collection(collectionName);
         const destCollection = destDB.collection(collectionName);
 
